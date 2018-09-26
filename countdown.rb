@@ -1,5 +1,5 @@
 #write your code here
 
-def countdown (number)
-  while 
+def countdown (int)
+  while number 
 end
